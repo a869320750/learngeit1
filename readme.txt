@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Add one new line.
 Add two new line.
+Creating a new branch is quick.
